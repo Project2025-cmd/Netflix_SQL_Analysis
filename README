@@ -1,0 +1,34 @@
+Netflix Shows and Movies SQL Analysis
+Project Overview
+
+This project analyzes Netflix movies and TV shows using MySQL. It explores ratings, release years, genres, runtime, actors, and directors.
+
+Tools Used
+MySQL
+MySQL Workbench
+SQL
+Database
+
+Database name: shows_movies
+
+Tables:
+
+titles — information about movies and TV shows
+credits — information about actors and directors
+Key Analysis
+Top and bottom titles based on IMDb ratings
+Average IMDb and TMDB scores
+Titles released by decade and year
+Most common genres and age certifications
+Actors and directors with the most appearances
+Average runtime of movies and shows
+Highly rated and popular movies
+How to Run
+Download or clone this repository.
+Import the required CSV datasets into MySQL.
+Create and select the shows_movies database.
+Open Netflix_SQL_Analysis.sql in MySQL Workbench.
+Run the queries to explore the results.
+Note
+
+The CSV datasets are required to run the analysis. Ensure that the table and column names match the SQL queries.
